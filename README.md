@@ -2,6 +2,10 @@
 
 A Machine Learning-based web application that predicts cattle health status using health parameters such as body temperature, heart rate, respiratory rate, activity level, rumination time, weight, and age.
 
+## Project Objective
+
+The objective of this project is to help farmers monitor cattle health using Machine Learning. The system predicts whether cattle are healthy or unhealthy based on physiological parameters and provides model explanations using SHAP and LIME.
+
 ## Live Demo
 
  https://cattle-health-monitoring-6rpdgplrb26ugu2oueqvpn.streamlit.app/

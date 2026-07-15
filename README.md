@@ -44,9 +44,19 @@ pip install -r requirements.txt
 streamlit run cat.py
 ```
 
-##  Screenshots
+## 📸 Screenshots
 
-(Add your screenshots here after uploading them to the `screenshots` folder.)
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Prediction Page
+
+![Prediction Page](screenshots/prediction.png)
+
+### Insights
+
+![Insights](screenshots/insights.png)
 
 ##  Developed By
 

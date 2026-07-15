@@ -48,15 +48,15 @@ streamlit run cat.py
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ### Prediction Page
 
-![Prediction Page](screenshots/prediction.png)
+![Prediction Page](screenshots/prediction.png.png)
 
 ### Insights
 
-![Insights](screenshots/insights.png)
+![Insights](screenshots/insights.png.png)
 
 ##  Developed By
 
